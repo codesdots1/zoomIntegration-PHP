@@ -24,3 +24,5 @@ $ composer require guzzlehttp/guzzle
 ## Get started
 
 To use the [Zoom API](https://marketplace.zoom.us/docs/guides/tools-resources/zoom-apis), you will need to register a Zoom app. Follow the [Create an OAuth App guide](https://marketplace.zoom.us/docs/guides/getting-started/app-types/create-oauth-app).
+
+<img src="./image.png">
