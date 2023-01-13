@@ -14,4 +14,13 @@ Once you have your Zoom account, you need to create an OAuth app on Zoom using t
 ## Basic Setup and Configuration
 I didn’t find any PHP library which can be used to interact with the Zoom API. Doing some research I am able to manage it through the Guzzle library and Zoom REST API. Install the Guzzle library using the command:
 
-composer require guzzlehttp/guzzle
+### Installation
+
+```
+$ composer require guzzlehttp/guzzle
+
+```
+
+## Get started
+
+To use the [Zoom API](https://marketplace.zoom.us/docs/guides/tools-resources/zoom-apis), you will need to register a Zoom app. Follow the [Create an OAuth App guide](https://marketplace.zoom.us/docs/guides/getting-started/app-types/create-oauth-app).
