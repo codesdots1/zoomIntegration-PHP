@@ -2,7 +2,7 @@ Create an OAuth App on Zoom
 
 Once you have your Zoom account, you need to create an OAuth app on Zoom using the below steps.
 
-Register your app on <a href="https://marketplace.zoom.us/develop/create">Zoom APP Marketplace</a>.
+<a href="https://marketplace.zoom.us/develop/create"> Register your app </a> on Zoom APP Marketplace.
 Upon registering an app, you will get your generated credentials. Here you need to pass Redirect URL for OAuth and Whitelist URL.
 On the next step, enter the basic information about your app.
 In the tab, you can optionally enable some additional features such as Event Subscriptions and Chat Subscriptions for your app.
